@@ -15,8 +15,5 @@ MIP: N/A
 
 ROTY: N/A
 
-ASG MVP: N/A
+ASG MVP: Tracy McGrady
 
-EC Best Team: N/A
-
-WC Best Team: N/A
